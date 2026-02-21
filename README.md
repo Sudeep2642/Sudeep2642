@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sudeep2642&label=Profile%20views&color=0e75b6&style=flat" alt="Sudeep2642" /> </p>
 
-- 🔭 I’m currently working on **Formalls - Complete Mall Management Platform **
+- 🔭 I’m currently working on **Indoor Navigation -Formalls **
 
 - 📫 How to reach me **bhimannavarsudeep26@gmail.com**
 
