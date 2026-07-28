@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./banner.png" alt="Sudeep Bhimannavar" width="100%" />
+
 <pre>
 ███████╗██╗   ██╗██████╗ ███████╗███████╗██████╗
 ██╔════╝██║   ██║██╔══██╗██╔════╝██╔════╝██╔══██╗
@@ -10,9 +12,9 @@
 </pre>
 
 # Sudeep Bhimannavar
-### Software Engineer · Building AI-Powered Systems · RAG & Agentic Engineering
+### Software Engineer · Bengaluru, India · Building toward AI Architecture
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Production+RAG+%26+Agent-Based+AI+Systems;Architecting+Scalable+Multi-Tenant+SaaS+Platforms;Shipping+Computer+Vision+%2B+Graph+Algorithm+Systems;Python+%7C+Django+%7C+LangChain+%7C+Claude%2FOpenAI+API)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Multi-tenant+SaaS+in+production+at+Vividhity;AI+indoor+navigation+with+Claude+Vision+%2B+OpenCV;RAG+%2B+document+Q%26A+with+Claude%2FOpenAI+APIs;MCA+(AI+Specialization)+%40+Jain+University+%2725-%2727)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Sudeep2642&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 &nbsp;
@@ -28,11 +30,9 @@
 
 ## ⚡ Who Am I?
 
-> *"I don't just write code — I architect systems that scale, navigate complexity, and now, reason over it."*
+I'm a **Software Engineer at Vividhity Ventures**, based in **Bengaluru, India 🇮🇳**, working across software engineering and sales for a multi-tenant SaaS platform. Alongside that, I'm pursuing an **MCA with an AI specialization** (Jain University, distance learning, 2025–2027) and building toward a longer-term goal: becoming an **AI Architect**.
 
-I'm a **Software Engineer based in Bengaluru, India 🇮🇳**, moving deliberately from production SaaS engineering into applied AI. My day job is architecting a multi-tenant SaaS platform; my active build right now is an AI agent that learns a codebase's own conventions and reviews pull requests against them.
-
-I live at the intersection of **production backend systems** and **applied AI** — where Django meets LLM orchestration, and graph algorithms meet retrieval and reasoning.
+My day-to-day core stack is **Django, React, Python, MySQL**, with **JWT/RBAC** for auth — and I'm actively growing into **Next.js and Node.js**. Outside work, I build AI-focused portfolio projects (Claude Vision, RAG pipelines) and put in daily DSA reps as I work toward a pure engineering role.
 
 ---
 
@@ -42,53 +42,53 @@ I live at the intersection of **production backend systems** and **applied AI** 
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 PR Convention Analyzer
-**RAG + Agents · In Active Development**
+### 🗺️ MallNav
+**AI-Powered Indoor Navigation**
 
-An AI reviewer that ingests a codebase's conventions and PR history, then flags team-specific violations on new PRs — not generic lint rules, institutional knowledge.
+GPS dies indoors — MallNav doesn't. A Claude Vision API + OpenCV pipeline classifies floor-plan POIs, paired with a graph engine for real-time indoor pathfinding.
 
 ```
-🚧 RAG over codebase + convention docs
-🚧 Agent: parse diff → retrieve → flag
-🚧 GitHub API + webhook-triggered review
-🚧 Static analysis as a second signal
+✅ Claude Vision API + OpenCV
+   floor-plan parsing
+✅ Graph-based pathfinding on
+   dynamic weighted graphs
+✅ Real-time path recalculation
 ```
 
-**Stack:** `Python` `FastAPI` `LangChain` `Chroma` `Claude API` `GitHub API` `Docker`
+**Stack:** `Python` `Claude Vision API` `OpenCV` `NetworkX`
 
 </td>
 <td width="33%" valign="top">
 
 ### 🏢 Formalls
-**Multi-Tenant SaaS · Mall Management Platform**
+**Multi-Tenant SaaS · Mall Management**
 
-A production-ready platform built for modern mall operations — fully isolated tenant data, clean APIs, and a scalable Django + React core.
+Production platform for mall operations. I lead frontend development — isolated tenant data, a clean design system, and a Django + React core.
 
 ```
-✅ Multi-tenant architecture with data isolation
-✅ Secure role-based access control
-✅ RESTful API layer for all operations
-✅ Production-deployed on AWS EC2 + S3
+✅ Multi-tenant architecture
+✅ Role-based access control
+✅ Django + React, in production
+   at Vividhity
 ```
 
-**Stack:** `Django` `React.js` `MySQL` `AWS` `Docker`
+**Stack:** `Django` `React.js` `MySQL`
 
 </td>
 <td width="33%" valign="top">
 
-### 🗺️ MallNav
-**AI-Powered Indoor Navigation System**
+### 📄 DocuMind
+**RAG-Powered Document Q&A**
 
-GPS dies indoors. MallNav doesn't. A Claude Vision API + OpenCV pipeline classifies floor-plan POIs, paired with a dynamic graph engine using **Dijkstra's algorithm** for real-time indoor pathfinding.
+Next up on the portfolio roadmap — a retrieval-augmented Q&A system for querying documents conversationally.
 
 ```
-✅ Claude Vision API + OpenCV floor-plan parsing
-✅ Dijkstra's algorithm on dynamic weighted graphs
-✅ Real-time path recalculation
-✅ 1,000+ concurrent users in production
+🚧 Chunking + embeddings
+🚧 Vector retrieval
+🚧 LLM-grounded answers
 ```
 
-**Stack:** `Python` `Claude Vision API` `NetworkX` `OpenCV`
+**Stack:** `Python` `LangChain` `Vector DB` `Claude/OpenAI API`
 
 </td>
 </tr>
@@ -99,43 +99,29 @@ GPS dies indoors. MallNav doesn't. A Claude Vision API + OpenCV pipeline classif
 ## 🛠️ Tech Arsenal
 
 ### 🧠 Languages
-![Python](https://img.shields.io/badge/Python-Expert-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-Fluent-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Familiar-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🤖 AI / LLM Engineering *(Active Focus)*
-![LangChain](https://img.shields.io/badge/LangChain-🔥_Active-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-🔥_Active-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-🔥_Active-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma_/_FAISS-Vector_DB-FF6F00?style=for-the-badge&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-white?style=for-the-badge&logo=opencv&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🏗️ Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🤖 AI / LLM Engineering
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS_(EC2,S3)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
@@ -156,43 +142,31 @@ GPS dies indoors. MallNav doesn't. A Claude Vision API + OpenCV pipeline classif
 
 ---
 
+## 📈 Contribution Activity — Jet Scale
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/dark.svg">
+  <img alt="Jet Contribution Heatmap" src="./dist/light.svg" width="100%">
+</picture>
+
+</div>
+
+*Auto-updated daily by a GitHub Action — see `scripts/generate_jet_heatmap.py`.*
+
+---
+
 ## 🌱 Currently Building
 
 ```python
 current_focus = {
-    "building":     "PR Convention Analyzer — RAG + agent that reviews PRs against team conventions",
-    "ai_stack":     ["LangChain / LlamaIndex", "Chroma", "Claude & OpenAI APIs", "Function calling / tool-use"],
-    "dsa":          "NeetCode 150 — daily, alongside a full-time role",
-    "goal":         "Ship production RAG + agent systems on top of real SaaS/AI infrastructure"
+    "shipping":   "DocuMind — RAG-powered document Q&A system",
+    "maintaining": "MallNav & Formalls — both in production use",
+    "dsa":        "Daily practice, alongside a full-time engineering role",
+    "goal":       "Move into a pure engineering role; long-term: AI Architect",
 }
 ```
-
----
-
-## 🧭 My Engineering Philosophy
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   "Make it work. Make it right. Make it fast."          │
-│                                                         │
-│   • Architecture first, code second                     │
-│   • Every system should be explainable in one diagram   │
-│   • If it's not tested, it's broken                     │
-│   • Simple > Clever, always                              │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
@@ -200,11 +174,10 @@ current_focus = {
 
 <div align="center">
 
-I'm always open to interesting problems, collabs, and conversations about applied AI, RAG/agent systems, or SaaS architecture (indoor navigation systems too, yes, that's a thing).
+Open to conversations about applied AI, RAG systems, SaaS architecture, or engineering roles.
 
 <a href="https://sudeep-bhimannavar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/sudeepbhimannavar-dev26/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/sudeepbhimannavar_07"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:bhimannavarsudeep26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ---
